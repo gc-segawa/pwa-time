@@ -1,0 +1,13 @@
+{
+  "short_name": "現在時刻",
+  "name": "現在時刻",
+  "icons": [
+    {
+      "src": "images/time.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone"
+}
